@@ -1,0 +1,23 @@
+# Python virtual environment
+py/visenv/
+py/.visenv/
+
+# C build artifacts
+c_dir/*.o
+c_dir/*.out
+c_dir/*.obj
+c_dir/*.exe
+c_dir/*.a
+c_dir/*.so
+c_dir/*.dll
+c_dir/*.dylib
+c_dir/*.dep
+c_dir/*.map
+c_dir/*.stackdump
+c_dir/*.log
+
+c_dir/build/
+
+# MP3 files in c_dir
+c_dir/*.raw
+c_dir/*.mp3
